@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-    <a href="https://discord.com/invite/PdYtyJMTZN"><img alt="Discord" src="https://img.shields.io/badge/Discord-join-blue?logo=discord&logoColor=%23ffffff&color=%235865F2"></a>
-    <a href="https://t.me/your_channel"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-join-blue?logo=telegram&logoColor=%23ffffff" style="border: none;"></a> |
+    <a href="https://discord.com/invite/fmVfDh57kw"><img alt="Discord" src="https://img.shields.io/badge/Discord-join-blue?logo=discord&logoColor=%23ffffff&color=%235865F2"></a>
+    <a href="https://https://t.me/diseleg"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-join-blue?logo=telegram&logoColor=%23ffffff" style="border: none;"></a> 
     <a href="https://discord.com/oauth2/authorize?client_id=1419054845150625853&permissions=67600&integration_type=0&scope=bot+applications.commands"><img alt="Discord Bot" src="https://img.shields.io/badge/Discord-Bot-7289da?logo=discord&logoColor=%23ffffff&color=%237289DA"></a>
     <a href="https://t.me/Diseleg_bot"><img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram-Bot-0088cc?logo=telegram&logoColor=%23ffffff" style="border: none;"></a>
 </p>
